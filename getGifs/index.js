@@ -1,5 +1,5 @@
 'use strict';
-var faker = require('Faker')
+var faker = require('faker')
 
 exports.handler = (event, context, callback) => {
 var gifs = [];
